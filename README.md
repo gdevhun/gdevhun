@@ -1,5 +1,5 @@
-<h1 align="left">Hello👋 I'm Donghun, </br>
-Won who hopes to be a Client Developer. 👨‍💻</h1>
+<h1 align="left">Hello 👋 I'm Donghun, Won </br>
+who hopes to be a Client Developer. 👨‍💻</h1>
 <h2 align="left">JBNU Computer Science Engineering 🖥 </h2>
 
 - 📝 Studying Blog [https://blog.naver.com/donghun_o](https://blog.naver.com/donghun_o)
