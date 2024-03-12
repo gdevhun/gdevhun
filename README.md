@@ -1,10 +1,10 @@
-<h1 align="left">Hello 👋 I'm Donghun, Won </br>
+<h1 align="left">Hi, 👋 I'm Donghun, Won </br>
 who hopes to be a Client Developer. 👨‍💻</h1>
 <h2 align="left">JBNU Computer Science Engineering 🖥 </h2>
 
-- 📝 Studying Blog [https://blog.naver.com/donghun_o](https://blog.naver.com/donghun_o)
+- 📝 Studying Blog : [https://blog.naver.com/donghun_o](https://blog.naver.com/donghun_o)
 
-- 📫 E-mail **wjh9330@naver.com**
+- 📫 E-mail : **wjh9330@naver.com**
 
 
 <p align="left">
