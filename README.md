@@ -2,10 +2,9 @@
 who hopes to be a Client Developer. 👨‍💻</h1>
 <h2 align="left">JBNU Computer Science Engineering 🖥 </h2>
 
-- 📝 Studying Blog : [https://blog.naver.com/donghun_o](https://blog.naver.com/donghun_o)
+- 📝 Studying Blog : <a href="https://blog.naver.com/donghun_o" target="_blank"><img src="https://img.shields.io/badge/BLOG-blue?style=flat-square&logoColor=CC6699"/></a>
 
-- 📫 E-mail : **wjh9330@naver.com**
-
+- 📫 E-mail : <a href="mailto:wjh9330@naver.com"><img src="https://img.shields.io/badge/EMAIL-blue?style=flat-square&logoColor=CC6699"/></a>
 
 <p align="left">
 </p>
