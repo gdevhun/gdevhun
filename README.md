@@ -1,7 +1,7 @@
 <h1 align="left">Hi, 👋 I'm Donghun, Won </br>
 who hopes to be a Client Developer. 👨‍💻</h1>
 
-## JBNU Computer Science Engineering 🖥
+## JBNU CS&E 🖥
 
 ### 📝 Studying Blog : <a href="https://blog.naver.com/donghun_o" target="_blank"><img src="https://img.shields.io/badge/BLOG-blue?style=flat-square&logoColor=CC6699"/></a>
 ### 📫 E-mail : <a href="mailto:wjh9330@naver.com"><img src="https://img.shields.io/badge/EMAIL-blue?style=flat-square&logoColor=CC6699"/></a>
