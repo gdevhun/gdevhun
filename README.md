@@ -17,7 +17,7 @@ who hopes to be a Client Developer. 👨‍💻</h1>
     </a>
 </p>
 
-<h2 align="center">PL & Stack.Tech of Interest : 💭</h2>
+<h2 align="center"> 💭PL & Stack.Tech of Interest : </h2>
 <p align="center">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
