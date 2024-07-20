@@ -1,5 +1,5 @@
-<h1 align="center">Hi, 👋 I'm Donghun, Won </br>
-who hopes to be a Client Developer. 👨‍💻</h1>
+<h1 align="center">Hi,👋 I'm Donghun, Won </br>
+who hopes to be a Client Developer.👨‍💻</h1>
 
 <h2 align="center">JBNU CS&E 🖥</h2>
 
