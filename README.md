@@ -1,9 +1,7 @@
-<div align="center"> 
+<div align="center">
 
-  <!-- Header with animation -->
-</br><br/>
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=gdevhun&fontSize=90)
-<br/>
   <!-- Introduction Section -->
   <h1 align="center" style="font-family: 'Arial', sans-serif; color: #ffffff; font-size: 50px; margin-top: 20px;">Hi,👋 I'm Donghun, Won</br>who hopes to be a Client Developer.👨‍💻</h1>
 
