@@ -22,18 +22,18 @@
   <!-- Languages Section -->
   <h3 align="center" style="font-family: 'Arial', sans-serif; color: #ffffff; font-size: 25px;">📚 Languages:</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white"/> &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>    
   </p>
 
   <!-- Engine Tech Stack Section -->
   <h3 align="center" style="font-family: 'Arial', sans-serif; color: #ffffff; font-size: 25px;">🎮 Engine Tech Stack:</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  </p>
+<p align="center">
+   <img src="https://img.shields.io/badge/Unity-20232a?style=for-the-badge&logo=unity&logoColor=white"/> &nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&color=blue">
+</p>
 
   <!-- BOJ Stats Section -->
   <h3 align="center" style="font-family: 'Arial', sans-serif; color: #ffffff; font-size: 25px;">📈 BOJ Stats:</h3>
