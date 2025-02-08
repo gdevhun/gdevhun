@@ -35,6 +35,16 @@
    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&color=blue">
 </p>
 
+<!-- Communication and Collaboration Tools Section -->
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #ffffff; font-size: 25px;">🛠️ Communication & Collaboration Tools:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&color=purple"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Fork-828282?style=for-the-badge&logo=git&logoColor=white&color=green"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>    
+</p>
+
   <!-- BOJ Stats Section -->
   <h3 align="center" style="font-family: 'Arial', sans-serif; color: #ffffff; font-size: 25px;">📈 BOJ Stats:</h3>
   <p align="center">
