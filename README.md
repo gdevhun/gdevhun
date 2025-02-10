@@ -42,7 +42,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&color=purple"/> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Fork-828282?style=for-the-badge&logo=git&logoColor=white&color=green"/> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>    
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
   <!-- BOJ Stats Section -->
