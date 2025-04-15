@@ -1,12 +1,7 @@
 <div align="center">
 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=gdevhun&fontSize=90)
-<p align="center">
-  <a href="https://unmarred-deer-17b.notion.site/Game-Client-Developer-Portfolio-1ae2c75261cb8056af7ee3bd8a56a581" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+
   <!-- Introduction Section -->
   <h1 align="center" style="font-family: 'Arial', sans-serif; color: #ffffff; font-size: 50px; margin-top: 20px;">Hi,👋 I'm Donghun, Won</br>who hopes to be a Client Developer.👨‍💻</h1>
 
@@ -19,9 +14,7 @@
     <a href="mailto:wjh9330@naver.com">
       <img src="https://img.shields.io/badge/EMAIL-orange?style=for-the-badge&logo=gmail&logoColor=white" />
     </a> &nbsp;&nbsp; 
-    <a href="https://www.instagram.com/dawninghun/">
-      <img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
+  
   </p>
 
   <!-- Languages Section -->
