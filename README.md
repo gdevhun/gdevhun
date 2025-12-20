@@ -1,6 +1,5 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Donghun%20Won&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=gdevhun&fontSize=70)
 
 <img src="https://readme-typing-svg.demolab.com?
 font=Fira+Code
@@ -15,35 +14,31 @@ Unreal+Engine+%7C+C%2B%2B;
 Gameplay+%7C+GAS+%7C+Optimization"
 />
 
-<br/>
-
 <h3>
   I enjoy solving problems and building interactive user experiences.<br/>
   Focused on Client Development.
 </h3>
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-<p align="center">
+- **Programming Languages**
+<p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> &nbsp;
   <img src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/C%23-0078d4?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
-### 🎮 Game Engines
-<p align="center">
+- **Game Engines**
+<p>
   <img src="https://img.shields.io/badge/Unity-20232a?style=for-the-badge&logo=unity&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&color=blue">
 </p>
 
-### 🧰 Tools & Collaboration
-<p align="center">
+- **Tools & Collaboration**
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> &nbsp;
@@ -56,27 +51,38 @@ Gameplay+%7C+GAS+%7C+Optimization"
 
 ## 🏃‍♂️ Activities
 
-- **2025 인디크래프트 챌린저 부문 TOP 20 선정** <sup>2025-05</sup>  
-- **2025 GXG 게임문화축제 본선 진출 및 부스 전시** <sup>2025-09</sup>  
+### 📌 ~2025
 - **제 3회 UNIDEV 합동 게임 전시회 UNICON 참가** <sup>2025-11</sup>  
+- **2025 GXG 게임문화축제 본선 진출 및 부스 전시** <sup>2025-09</sup>  
+- **2025 인디크래프트 챌린저 부문 TOP 20 선정** <sup>2025-05</sup>  
 - **UNIDEV 3rd UNIJAM 게임잼 참가** <sup>2025-01</sup>  
+
+---
+
+### 📌 ~2024
 - **전북 인디게임 공모전 최우수상 수상** <sup>2024-10</sup>  
 - **2024 전북 서브컬쳐 게임 페스티벌(JISEF) 본선 진출 및 전시** <sup>2024-10</sup>  
 - **제 2회 UNIDEV 합동 게임 전시회 UNICON 참가** <sup>2024-08</sup>  
 - **넥슨 게임잼(재밌넥) 참가** <sup>2024-07</sup>  
 - **전북대학교 SW 캡스톤 디자인 경진대회 장려상 수상** <sup>2024-06</sup>  
 - **UNIDEV 2nd UNIJAM 게임잼 참가** <sup>2024-01</sup>  
-- **전북대학교 교내 작품경진대회 본선 진출** <sup>2023-12</sup>
 
 ---
 
-## 📈 Algorithms & GitHub Stats
+### 📌 ~2023
+- **전북대학교 교내 작품경진대회 본선 진출** <sup>2023-12</sup>
 
-<div align="center">
+
+---
+
+## 📈 Overview
+
+<p>
   <a href="https://solved.ac/wjh9330">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjh9330" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=gdevhun&show_icons=true&theme=radical&hide=prs" />
-</div>
+</p>
+
 
