@@ -15,8 +15,8 @@ Gameplay+%7C+GAS+%7C+Optimization"
 />
 
 <h3>
-  I enjoy solving problems and building interactive user experiences.<br/>
-  Focused on Client Development.
+  Enjoying solving problems and building interactive user experiences.<br/>
+  Interested in developing game client and studying Unreal Engine and Unity Engine.
 </h3>
 
 ---
@@ -57,7 +57,6 @@ Gameplay+%7C+GAS+%7C+Optimization"
 - **2025 인디크래프트 챌린저 부문 TOP 20 선정** <sup>2025-05</sup>  
 - **UNIDEV 3rd UNIJAM 게임잼 참가** <sup>2025-01</sup>  
 
----
 
 ### 📌 ~2024
 - **전북 인디게임 공모전 최우수상 수상** <sup>2024-10</sup>  
@@ -67,7 +66,6 @@ Gameplay+%7C+GAS+%7C+Optimization"
 - **전북대학교 SW 캡스톤 디자인 경진대회 장려상 수상** <sup>2024-06</sup>  
 - **UNIDEV 2nd UNIJAM 게임잼 참가** <sup>2024-01</sup>  
 
----
 
 ### 📌 ~2023
 - **전북대학교 교내 작품경진대회 본선 진출** <sup>2023-12</sup>
