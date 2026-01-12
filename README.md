@@ -16,7 +16,7 @@ Gameplay+%7C+GAS+%7C+Optimization"
 
 <h3>
   Enjoying solving problems and building interactive user experiences.<br/>
-  Interested in developing game client and studying Unreal Engine and Unity Engine.
+  Interested in developing c++/c# client and studying 3D Engine.
 </h3>
 
 ---
@@ -50,6 +50,8 @@ Gameplay+%7C+GAS+%7C+Optimization"
 ---
 
 ## 🏃‍♂️ Activities
+### 📌 ~2026
+- **C++/C# 응용 프로그램 개발 회사 재직중** <sup>2026-01~</sup>
 
 ### 📌 ~2025
 - **제 3회 UNIDEV 합동 게임 전시회 UNICON 참가** <sup>2025-11</sup>  
