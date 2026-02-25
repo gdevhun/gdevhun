@@ -51,7 +51,7 @@ Gameplay+%7C+GAS+%7C+Optimization"
 
 ## 🏃‍♂️ Activities
 ### 📌 ~2026
-- **C++/C# 방산 응용 프로그램 개발 회사 재직중** <sup>2026-01~</sup>
+- **C++/C# 방산 응용 프로그램 개발 회사 연구원 재직중** <sup>2025-12~</sup>
 
 ### 📌 ~2025
 - **제 3회 UNIDEV 합동 게임 전시회 UNICON 참가** <sup>2025-11</sup>  
